@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Local Code 
+=======
+Remote Code1
+>>>>>>> 40fb127516629e4d1edf41cda3951eab71b056a6
